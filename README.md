@@ -57,6 +57,8 @@ To run the tests, use the following command:
 
 This will execute both unit tests and integration tests.
 
+To view my report from test cases previously, please see [surefire-report.html](surefire-report.html)
+
 ## API Documentation
 
 The API documentation is available in the [service.yml](service.yml) file, which follows the OpenAPI 3.0 specification. It describes the endpoints, request/response formats, and error codes.
