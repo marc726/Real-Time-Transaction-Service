@@ -11,8 +11,8 @@
         <relativePath/> 
     </parent>
 
-    <groupId>dev.codescreen</groupId>
-    <artifactId>CodeScreen_eazudnln</artifactId>
+    <groupId>com.realtimetransaction</groupId>
+    <artifactId>real-time-transaction-service</artifactId>
     <version>1.0.0</version>
 
     <properties>
@@ -115,7 +115,7 @@
                 <version>${maven-surefire-report-plugin.version}</version>
                 <configuration>
                     <redirectTestOutputToFile>true</redirectTestOutputToFile>
-                    <reportsDirectory>codescreen/test/output/results</reportsDirectory>
+                    <reportsDirectory>realtimetransactionlogs/test/output/results</reportsDirectory>
                     <forkCount>3</forkCount>
                     <reuseForks>true</reuseForks>
                 </configuration>

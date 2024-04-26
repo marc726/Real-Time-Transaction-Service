@@ -2,10 +2,10 @@
 *.class
 
 target/
-codescreen/test/output/results
-codescreen/coverage/output/results
-*/codescreen/test/output/results
-*/codescreen/coverage/output/results
+realtimetransaction/test/output/results
+realtimetransaction/coverage/output/results
+*/realtimetransaction/test/output/results
+*/realtimetransaction/coverage/output/results
 
 # Log file
 *.log
