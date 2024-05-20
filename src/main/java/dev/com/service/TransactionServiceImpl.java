@@ -38,8 +38,6 @@ public class TransactionServiceImpl implements TransactionService {
             responseCode = ResponseCode.DECLINED;
         }
 
-        //userBalances.put(userId, updatedBalance);
-
         return new AuthorizationResponse(userId, messageId, responseCode, updatedBalance);
     }
 

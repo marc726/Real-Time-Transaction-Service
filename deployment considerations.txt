@@ -1,0 +1,10 @@
+I would host the application using AWS. From what I researched, I would want to utilize AWS Elastic Beanstalk because of the simplicity it brings to 
+allow me to deploy and manage the application. It supports Java as well as Spring Boot.
+
+I would implement a database to maintain information and choose Amazon RDS to host either MySQL or Postgres due to its awesome feature of automatic backups.
+
+Another aspect I'd like to consider is CI/CD. I would use AWS once again via CodePipeline. It would automatically build, test, and deploy the application whenever 
+changes are pushed to the repo.
+
+Rewrite the readme.md (using .md formatting) and refactor it so it seems like my personal project with instructions how to run, what I did, libraries/frameworks used, etc. 
+Anything that makes it look and sound complete and professional
